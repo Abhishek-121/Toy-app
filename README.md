@@ -23,4 +23,16 @@ Things you may want to cover:
 ![Screenshot 2021-05-25 at 3 07 44 PM](https://user-images.githubusercontent.com/56202291/120079629-62e87a00-c0d2-11eb-8233-cd5cce8cc751.png)
 
 
+### Micropost Page 
+
+![Screenshot 2021-05-25 at 3 06 42 PM](https://user-images.githubusercontent.com/56202291/120079663-9cb98080-c0d2-11eb-9a62-fa56ed4ada46.png)
+
+### Validation in Micropost
+
+![Screenshot 2021-05-25 at 3 06 32 PM](https://user-images.githubusercontent.com/56202291/120079697-bd81d600-c0d2-11eb-9ccb-99ec9cc635fb.png)
+
+### Micropost Destroyed Successfully
+
+![Screenshot 2021-05-25 at 3 07 05 PM](https://user-images.githubusercontent.com/56202291/120079727-e4d8a300-c0d2-11eb-9cb5-9eebac4b847b.png)
+
 
