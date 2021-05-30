@@ -1,3 +1,5 @@
+## Requirements
+
 * Ruby version - 2.7.2p137
 
 * Rails version - 6.1.3.2
@@ -5,6 +7,8 @@
 * Database creation - sqlite3
 
 * How to run the test suite - rails test on console
+
+* Check site on local server - http://localhost:3000
 
 # Some of the glimse of Toy-app using Scaffold
 
